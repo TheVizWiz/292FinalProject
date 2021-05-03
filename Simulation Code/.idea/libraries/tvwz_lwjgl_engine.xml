@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="tvwz-lwjgl-engine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../Applications/Java/lib/tvwz-lwjgl-engine/tvwz-lwjgl-engine.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../Applications/Java/lib/tvwz-lwjgl-engine/tvwz-lwjgl-engine.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../Applications/Java/lib/tvwz-lwjgl-engine/tvwz-lwjgl-engine.jar!/" />
+    </SOURCES>
+  </library>
+</component>

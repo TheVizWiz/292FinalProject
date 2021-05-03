@@ -1,0 +1,148 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{rnot2}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a03866a540d2f2fd3a82ccee71f81385}{%
+           family={Ciarochi},
+           familyi={C\bibinitperiod},
+           given={Jen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a03866a540d2f2fd3a82ccee71f81385}
+      \strng{fullhash}{a03866a540d2f2fd3a82ccee71f81385}
+      \strng{bibnamehash}{a03866a540d2f2fd3a82ccee71f81385}
+      \strng{authorbibnamehash}{a03866a540d2f2fd3a82ccee71f81385}
+      \strng{authornamehash}{a03866a540d2f2fd3a82ccee71f81385}
+      \strng{authorfullhash}{a03866a540d2f2fd3a82ccee71f81385}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 05-03-2021)}
+      \field{title}{How COVID-19 and other infectious diseases spread: mathematical modeling}
+      \verb{urlraw}
+      \verb https://triplebyte.com/blog/modeling-infectious-diseases
+      \endverb
+      \verb{url}
+      \verb https://triplebyte.com/blog/modeling-infectious-diseases
+      \endverb
+    \endentry
+    \entry{wiki}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 05-03-2021)}
+      \field{title}{Compartmental models in epidemiology}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology
+      \endverb
+    \endentry
+    \entry{github}{online}{}
+      \name{author}{1}{}{%
+        {{hash=39ecb191df5ca28184e2ed62a7fc08f1}{%
+           family={Iyer},
+           familyi={I\bibinitperiod},
+           given={Vibhu},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{39ecb191df5ca28184e2ed62a7fc08f1}
+      \strng{fullhash}{39ecb191df5ca28184e2ed62a7fc08f1}
+      \strng{bibnamehash}{39ecb191df5ca28184e2ed62a7fc08f1}
+      \strng{authorbibnamehash}{39ecb191df5ca28184e2ed62a7fc08f1}
+      \strng{authornamehash}{39ecb191df5ca28184e2ed62a7fc08f1}
+      \strng{authorfullhash}{39ecb191df5ca28184e2ed62a7fc08f1}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Github Storage for MATLAB Code and OpenGL Sim Implementation}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/TheVizWiz?tab=repositories
+      \endverb
+      \verb{url}
+      \verb https://github.com/TheVizWiz?tab=repositories
+      \endverb
+    \endentry
+    \entry{rnot1}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8d76e6df5138f19bbf927c8f014cc7a5}{%
+           family={Patolia},
+           familyi={P\bibinitperiod},
+           given={Setu\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d76e6df5138f19bbf927c8f014cc7a5}
+      \strng{fullhash}{8d76e6df5138f19bbf927c8f014cc7a5}
+      \strng{bibnamehash}{8d76e6df5138f19bbf927c8f014cc7a5}
+      \strng{authorbibnamehash}{8d76e6df5138f19bbf927c8f014cc7a5}
+      \strng{authornamehash}{8d76e6df5138f19bbf927c8f014cc7a5}
+      \strng{authorfullhash}{8d76e6df5138f19bbf927c8f014cc7a5}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 05-03-2021)}
+      \field{title}{What is the R naught of coronavirus disease 2019 (COVID-19)?}
+      \verb{urlraw}
+      \verb https://www.medscape.com/answers/2500117-197541/what-is-the-r-naught-of-coronavirus-disease-2019-covid-19
+      \endverb
+      \verb{url}
+      \verb https://www.medscape.com/answers/2500117-197541/what-is-the-r-naught-of-coronavirus-disease-2019-covid-19
+      \endverb
+    \endentry
+    \entry{sirmodel1}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ec66a87db782172759b9a4011d9753aa}{%
+           family={Sasaki},
+           familyi={S\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec66a87db782172759b9a4011d9753aa}
+      \strng{fullhash}{ec66a87db782172759b9a4011d9753aa}
+      \strng{bibnamehash}{ec66a87db782172759b9a4011d9753aa}
+      \strng{authorbibnamehash}{ec66a87db782172759b9a4011d9753aa}
+      \strng{authornamehash}{ec66a87db782172759b9a4011d9753aa}
+      \strng{authorfullhash}{ec66a87db782172759b9a4011d9753aa}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 05-03-2021)}
+      \field{title}{COVID-19 dynamics with SIR model}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.lewuathe.com/covid-19-dynamics-with-sir-model.html
+      \endverb
+      \verb{url}
+      \verb https://www.lewuathe.com/covid-19-dynamics-with-sir-model.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
